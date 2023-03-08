@@ -1,0 +1,15 @@
+{
+ "location" : "Rijeka",
+ "date" : "08.03.2023",
+ "forecasts" : [
+ {
+ "time" : "17:00",
+ "forecast" : "rainy",
+ "temp" : 12,
+ "wind" : {
+ "speed" : "5 m/s",
+ "description" : "Light air from north-northeast "
+ }
+ }
+ ]
+}
